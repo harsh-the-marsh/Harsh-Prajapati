@@ -1,5 +1,3 @@
-# Harsh-Prajapati
-
 ### Hi, I'm Harsh Prajapati 👋
 
 I’m an Web developer, rookie and inquisitive.. I'm the creator of [Basic_Python_Programs](https://www.instagram.com/python_programming__/).
