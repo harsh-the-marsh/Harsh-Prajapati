@@ -7,4 +7,4 @@ I’m an Web developer, rookie and inquisitive.. I'm the creator of [Basic_Pytho
 - 📱  I currently work as a Junior Software Engineer at Vasundhara Infotech.
 - 🤓 I’m currently learning Python-Django.
 - 💬  Ask me about Web development, Scrapping, Python Automation.
-- 📫  How to reach me: Twitter [@](twitter.com/Mr.Harshhh)  Instagram [@](instagram.com/mr.harshhh__)
+- 📫  How to reach me: Twitter [@Mr.Harshhh](https://www.twitter.com/Mr_Harshhh)  Instagram [@mr.harshhh__](https://www.instagram.com/mr.harshhh__)
